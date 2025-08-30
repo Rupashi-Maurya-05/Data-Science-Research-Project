@@ -17,25 +17,7 @@ A data-driven research project analyzing the impact of gender equality on econom
 * `results/` → Graphs, statistical results, and final reports
 
 ## 📸 Dashboard Preview
-
-![Power BI Dashboard]("C:\Users\AKSHAT\Pictures\Screenshots\Screenshot 2025-08-30 181348.png")
-
-
-## 🚀 How to Use
-
-1. Clone this repo
-
-   ```bash
-   git clone https://github.com/your-username/gender-equality-growth.git
-   ```
-2. Open notebooks in Jupyter to explore analysis
-3. Open `powerbi/dashboard.pbix` in Power BI Desktop to explore the dashboard
-
-Perfect 🙌 this summary is exactly what we needed! It makes your README much stronger because now your insights are **clear, data-backed, and policy-relevant** — no risk of putting vague or incorrect conclusions.
-
-Here’s how I’d integrate your **Summary of Findings + Future Work + Conclusion** into the README:
-
----
+<img src="./Screenshot 2025-08-30 181348.png" alt="Power BI Dashboard" width="700"/>
 
 ## 📌 Results & Insights
 
